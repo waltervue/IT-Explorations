@@ -1,3 +1,4 @@
+
 ###### [Back to homepage](https://waltervue.github.io/)
 
 # Summary of learning
@@ -11,3 +12,4 @@ IT explorations was an eye opening course in that it showed how in depth and the
 - [Web and Software Development Group Project](https://github.com/waltervue/it-explorations/raw/refs/heads/main/Career%20Exploration%20Group%20Project%20(1).pptx)
 
 - [Career exploration](https://github.com/waltervue/it-explorations/raw/refs/heads/main/Career%20Exploration.docx)
+
