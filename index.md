@@ -4,5 +4,8 @@ IT explorations was an eye opening course in that it showed how in depth and the
 
 ## Projects completed in course
 
-- [Google Looker Studio sample report rename it](link here)
-- [Sample file rename it](file link here)
+- [Google Looker Golf Score Report](link here)
+  
+- [Web and Software Development Group Project](file link here)
+
+- [Career exploration](Link here)
