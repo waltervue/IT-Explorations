@@ -4,8 +4,8 @@ IT explorations was an eye opening course in that it showed how in depth and the
 
 ## Projects completed in course
 
-- [Google Looker Golf Score Report](link here)
+- [Google Looker Golf Score Report](https://github.com/waltervue/it-explorations/blob/main/Golf_Score_Report.pdf)
   
-- [Web and Software Development Group Project](file link here)
+- [Web and Software Development Group Project](https://github.com/waltervue/it-explorations/blob/main/Career%20Exploration%20Group%20Project%20(1).pptx)
 
-- [Career exploration](Link here)
+- [Career exploration](https://github.com/waltervue/it-explorations/blob/main/Career%20Exploration.docx)
