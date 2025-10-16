@@ -9,6 +9,8 @@ This course was an eye opening course in that it showed how in depth and the com
 
 ## Projects completed in course
 
+- <a href="https://github.com/waltervue/IT-Explorations/blob/main/Golf_Score_Report.pdf" target="_blank">Google Looker Golf Score Report</a>
+
 - [Google Looker Golf Score Report](https://github.com/waltervue/it-explorations/blob/main/Golf_Score_Report.pdf)
   
 - [Web and Software Development Group Project](https://github.com/waltervue/it-explorations/raw/refs/heads/main/Career%20Exploration%20Group%20Project%20(1).pptx)
